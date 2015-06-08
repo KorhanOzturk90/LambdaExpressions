@@ -32,7 +32,7 @@ public class Student {
     }
 
     public String toString(){
-        return id + " " + name;
+        return id + " " + name + " " + age;
     }
 
 }
